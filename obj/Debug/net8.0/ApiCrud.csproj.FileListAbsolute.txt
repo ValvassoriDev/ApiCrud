@@ -126,3 +126,4 @@ C:\Users\Valvassori\Desktop\aulas\ApiCrud\bin\Debug\net8.0\runtimes\win-arm\nati
 C:\Users\Valvassori\Desktop\aulas\ApiCrud\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Valvassori\Desktop\aulas\ApiCrud\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Valvassori\Desktop\aulas\ApiCrud\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Valvassori\Desktop\aulas\ApiCrud\obj\Debug\net8.0\ApiCrud.sourcelink.json
